@@ -6,4 +6,4 @@
 	> Python, JavaScript, ReactJS, NextJS, ExpressJS
 
 * Supporting Me
-	> [GitHub Sponsors](https://github.com/sponsors/jayantkageri) | [Ko-Fi](https://www.ko-fi.com/jayantkageri) | [UPI](https://links.jayantkageri.in/payu): `jayantkageri@pockets`
+	> [GitHub Sponsors](https://github.com/sponsors/jayantkageri) | [Ko-Fi](https://www.ko-fi.com/jayantkageri) | [UPI](https://links.jayantkageri.in/payu): `jayantkageri@sbi`
